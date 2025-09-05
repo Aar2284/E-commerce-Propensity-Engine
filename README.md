@@ -4,13 +4,15 @@ An interactive dashboard powered by an XGBoost model to predict the propensity o
 
 ---
 
-🎯 The Problem
+## 🎯 The Problem
+
 E-commerce businesses lose billions of dollars annually due to product returns. This process, known as "reverse logistics," involves significant costs in shipping, inspection, restocking, and potential product devaluation. Most companies manage this reactively, only acting after a return has already been initiated.
 
 ---
 
-💡 The Solution: ReturnProphet
-ReturnProphet is a proof-of-concept dashboard that shifts this strategy from reactive to proactive. By leveraging a machine learning model, this tool can predict the return probability for a transaction at the point of input, allowing a business to:
+## 💡 The Solution: E-commerce Propensity Engine
+
+E-commerce-Propensity-Engine is a proof-of-concept dashboard that shifts this strategy from reactive to proactive. By leveraging a machine learning model, this tool can predict the return probability for a transaction at the point of input, allowing a business to:
 
 Identify High-Risk Orders: Flag transactions that are likely to be returned.
 
@@ -31,7 +33,7 @@ Gain Business Insights: Understand the key drivers behind product returns.
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Python  -> Core programming language
 - Pandas  -> Data manipulation and analysis
