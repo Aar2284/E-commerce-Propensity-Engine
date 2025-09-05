@@ -1,0 +1,20 @@
+# .streamlit/config.toml
+
+[theme]
+# Primary accent color - an orange-gold for interactive elements
+primaryColor = "#FFB800"
+
+# Deep dark background for the main content area
+backgroundColor = "#1C1C1C"
+
+# Slightly lighter dark background for cards/containers/sidebar
+secondaryBackgroundColor = "#2C2C2C"
+
+# Text color (white for readability on dark backgrounds)
+textColor = "#FFFFFF"
+
+# Font family
+font = "sans serif"
+
+# Optional: Light-grey for widget text for softer contrast
+# base = "dark" # Streamlit handles this usually, but good to be explicit
