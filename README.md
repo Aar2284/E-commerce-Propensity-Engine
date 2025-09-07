@@ -65,6 +65,7 @@ Gain Business Insights: Understand the key drivers behind product returns.
 
 ## 🗂️ Project Structure
 
+```
 ├── .streamlit/
 │   └── config.toml             # Custom theme configuration
 ├── Model_Training_Notebook.ipynb # Jupyter Notebook for EDA and model training
@@ -74,6 +75,7 @@ Gain Business Insights: Understand the key drivers behind product returns.
 ├── return_prediction_model.joblib  # Trained XGBoost model
 ├── scaler.joblib               # Scikit-learn scaler
 └── requirements.txt            # Python dependencies
+```
 
 ---
 
