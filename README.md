@@ -12,7 +12,7 @@ E-commerce businesses lose billions of dollars annually due to product returns. 
 
 ## 💡 The Solution: E-commerce Propensity Engine
 
-E-commerce-Propensity-Engine is a proof-of-concept dashboard that shifts this strategy from reactive to proactive. By leveraging a machine learning model, this tool can predict the return probability for a transaction at the point of input, allowing a business to:
+E-commerce-Propensity-Engine is a proof-of-concept dashboard that shifts this strategy from reactive to proactive. By leveraging a machine learning model, this tool can predict the return probability for a transaction at the point of input, allowing a business to:-
 
 Identify High-Risk Orders: Flag transactions that are likely to be returned.
 
