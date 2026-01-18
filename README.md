@@ -66,15 +66,26 @@ Gain Business Insights: Understand the key drivers behind product returns.
 ## 🗂️ Project Structure
 
 ```
-├── .streamlit/
-│   └── config.toml             # Custom theme configuration
-├── Model_Training_Notebook.ipynb # Jupyter Notebook for EDA and model training
-├── app.py                      # Main Streamlit application script
-├── europe.geojson              # High-resolution map data for Europe
-├── model_columns.joblib        # List of model feature columns
-├── return_prediction_model.joblib  # Trained XGBoost model
-├── scaler.joblib               # Scikit-learn scaler
-└── requirements.txt            # Python dependencies
+E-commerce-Propensity-Engine/
+│
+├── .streamlit/                 # Streamlit configuration (themes, settings)
+│
+├── models/                     # Trained models & preprocessing artifacts
+│   ├── return_prediction_model.joblib
+│   ├── scaler.joblib
+│   └── model_columns.joblib
+│
+├── model_training_nb/          # Model training & experimentation notebooks
+│   └── Model_Training_Notebook.ipynb
+│
+├── app.py                      # Streamlit application entry point
+├── europe.geojson              # GeoJSON data for map visualizations
+├── online_retail_ll.xlsx       # Raw dataset (Git LFS tracked)
+├── requirements.txt            # Python dependencies
+├── README.md                   # Project documentation
+├── .gitattributes              # Git LFS and repo attributes
+└── .gitignore                  # Ignored files and folders
+
 ```
 
 ---
