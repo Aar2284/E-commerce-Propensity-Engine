@@ -1,5 +1,8 @@
 # 🛒 E-commerce Propensity Engine
 
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 An interactive dashboard powered by an XGBoost model to predict the propensity of product returns in e-commerce. This project helps e-commerce businesses identify which products are likely to be returned, enabling better inventory management, customer targeting, and return policy optimization.
 
 ---
